@@ -1,0 +1,234 @@
+2025-04-12 16:53:09,032 - INFO - Iniciando coleta alternativa de licenças ambientais...
+2025-04-12 16:53:09,035 - INFO - Coletando dados para Ano 2015, Classe 5...
+2025-04-12 16:53:09,035 - INFO - Aplicando filtros: Ano 2015-2024, Classe 5, Decisão Deferida
+2025-04-12 16:53:10,603 - INFO - Token CSRF encontrado: HxxByMryaRnOkR4MbcBacgeNawU_R6oKgFHzjjBSekFXanP5vqsPKv3aZiEgrykDdL4pWghy23jMEobgQGYydg==
+2025-04-12 16:53:10,603 - INFO - URL de consulta: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/consulta-licenca?LicencaSearch%5Bregional_id%5D=&LicencaSearch%5Bmunicipio_id%5D=&LicencaSearch%5Bempreendimento%5D=&LicencaSearch%5Bcnpj%5D=&LicencaSearch%5Bprocesso_adm%5D=&LicencaSearch%5Bnumero_protocolo%5D=&LicencaSearch%5Bmodalidade%5D=&LicencaSearch%5Bclasse%5D=5&LicencaSearch%5Batividade_id%5D=&LicencaSearch%5Bano%5D=2015&LicencaSearch%5Bmes%5D=&LicencaSearch%5Bdata%5D=&LicencaSearch%5Bdecisao%5D=Deferida&_csrf=HxxByMryaRnOkR4MbcBacgeNawU_R6oKgFHzjjBSekFXanP5vqsPKv3aZiEgrykDdL4pWghy23jMEobgQGYydg%3D%3D
+2025-04-12 16:53:10,807 - INFO - Filtros aplicados com sucesso
+2025-04-12 16:53:10,808 - INFO - Processando página 1 para Ano 2015, Classe 5...
+2025-04-12 16:53:10,808 - INFO - Processando página de resultados...
+2025-04-12 16:53:10,842 - INFO - Encontradas 4 linhas na tabela
+2025-04-12 16:53:10,843 - INFO - Mapeamento de colunas: {'municipio': 1, 'empreendimento': 2, 'classe': 7, 'atividade': 8, 'ano': 9, 'decisao': 12}
+2025-04-12 16:53:10,848 - WARNING - Link 'Visualizar' não encontrado para: 
+2025-04-12 16:53:10,849 - INFO - Processados 3 resultados
+2025-04-12 16:53:10,849 - INFO - Analisando processo 1/2 da página 1
+2025-04-12 16:53:10,850 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=23771
+2025-04-12 16:53:10,902 - WARNING - Link do parecer técnico não encontrado
+2025-04-12 16:53:10,902 - WARNING - Nenhum link de parecer encontrado
+2025-04-12 16:53:13,903 - INFO - Analisando processo 2/2 da página 1
+2025-04-12 16:53:13,903 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=1512
+2025-04-12 16:53:13,955 - INFO - Baixando PDF: https://sistemas.meioambiente.mg.gov.br/licenciamento/uploads/V-9S3nCU6vryEPm10DdUt57B_4q20jsM.pdf
+2025-04-12 16:53:21,111 - INFO - PDF baixado com sucesso: pareceres\parecer_1744487593.pdf
+2025-04-12 16:53:21,135 - ERROR - Falha ao extrair texto do PDF
+2025-04-12 16:53:24,171 - WARNING - Elemento de paginação não encontrado
+2025-04-12 16:53:24,172 - INFO - Não há mais páginas para Ano 2015, Classe 5
+2025-04-12 16:53:24,173 - INFO - Coletando dados para Ano 2015, Classe 6...
+2025-04-12 16:53:24,173 - INFO - Aplicando filtros: Ano 2015-2024, Classe 6, Decisão Deferida
+2025-04-12 16:53:25,508 - INFO - Token CSRF encontrado: YvWPrc6zhAKKvQIVQij9LUpt-hZevYh-trUgukFcaCAqg72cuuriMbn2ejgPR45cOV64SWmI-Qz69lXUMWggFw==
+2025-04-12 16:53:25,509 - INFO - URL de consulta: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/consulta-licenca?LicencaSearch%5Bregional_id%5D=&LicencaSearch%5Bmunicipio_id%5D=&LicencaSearch%5Bempreendimento%5D=&LicencaSearch%5Bcnpj%5D=&LicencaSearch%5Bprocesso_adm%5D=&LicencaSearch%5Bnumero_protocolo%5D=&LicencaSearch%5Bmodalidade%5D=&LicencaSearch%5Bclasse%5D=6&LicencaSearch%5Batividade_id%5D=&LicencaSearch%5Bano%5D=2015&LicencaSearch%5Bmes%5D=&LicencaSearch%5Bdata%5D=&LicencaSearch%5Bdecisao%5D=Deferida&_csrf=YvWPrc6zhAKKvQIVQij9LUpt-hZevYh-trUgukFcaCAqg72cuuriMbn2ejgPR45cOV64SWmI-Qz69lXUMWggFw%3D%3D
+2025-04-12 16:53:25,661 - INFO - Filtros aplicados com sucesso
+2025-04-12 16:53:25,662 - INFO - Processando página 1 para Ano 2015, Classe 6...
+2025-04-12 16:53:25,662 - INFO - Processando página de resultados...
+2025-04-12 16:53:25,701 - INFO - Encontradas 3 linhas na tabela
+2025-04-12 16:53:25,702 - INFO - Mapeamento de colunas: {'municipio': 1, 'empreendimento': 2, 'classe': 7, 'atividade': 8, 'ano': 9, 'decisao': 12}
+2025-04-12 16:53:25,705 - WARNING - Link 'Visualizar' não encontrado para: 
+2025-04-12 16:53:25,706 - INFO - Processados 2 resultados
+2025-04-12 16:53:25,706 - INFO - Analisando processo 1/2 da página 1
+2025-04-12 16:53:25,707 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=25539
+2025-04-12 16:53:25,750 - INFO - Baixando PDF: https://sistemas.meioambiente.mg.gov.br/licenciamento/uploads/9fr0AxnlcccEh1FPLG07Yy159fMW4-8-.pdf
+2025-04-12 16:53:26,168 - INFO - PDF baixado com sucesso: pareceres\parecer_1744487605.pdf
+2025-04-12 16:53:26,309 - INFO - Exigência identificada: Nenhuma
+2025-04-12 16:53:29,310 - INFO - Analisando processo 2/2 da página 1
+2025-04-12 16:53:29,310 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=9146
+2025-04-12 16:53:29,388 - WARNING - Link do parecer técnico não encontrado
+2025-04-12 16:53:29,389 - WARNING - Nenhum link de parecer encontrado
+2025-04-12 16:53:32,421 - WARNING - Elemento de paginação não encontrado
+2025-04-12 16:53:32,421 - INFO - Não há mais páginas para Ano 2015, Classe 6
+2025-04-12 16:53:32,422 - INFO - Coletando dados para Ano 2016, Classe 5...
+2025-04-12 16:53:32,422 - INFO - Aplicando filtros: Ano 2016-2024, Classe 5, Decisão Deferida
+2025-04-12 16:53:33,572 - INFO - Token CSRF encontrado: SsNXJ8IhZRwKDmEV-UnVQMqyp4luje_iz8RgzvRHGQ8CtWUWtngDLzlFGTi0JqYxuYHl1lm4npCDhxWghHNROA==
+2025-04-12 16:53:33,573 - INFO - URL de consulta: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/consulta-licenca?LicencaSearch%5Bregional_id%5D=&LicencaSearch%5Bmunicipio_id%5D=&LicencaSearch%5Bempreendimento%5D=&LicencaSearch%5Bcnpj%5D=&LicencaSearch%5Bprocesso_adm%5D=&LicencaSearch%5Bnumero_protocolo%5D=&LicencaSearch%5Bmodalidade%5D=&LicencaSearch%5Bclasse%5D=5&LicencaSearch%5Batividade_id%5D=&LicencaSearch%5Bano%5D=2016&LicencaSearch%5Bmes%5D=&LicencaSearch%5Bdata%5D=&LicencaSearch%5Bdecisao%5D=Deferida&_csrf=SsNXJ8IhZRwKDmEV-UnVQMqyp4luje_iz8RgzvRHGQ8CtWUWtngDLzlFGTi0JqYxuYHl1lm4npCDhxWghHNROA%3D%3D
+2025-04-12 16:53:33,806 - INFO - Filtros aplicados com sucesso
+2025-04-12 16:53:33,807 - INFO - Processando página 1 para Ano 2016, Classe 5...
+2025-04-12 16:53:33,807 - INFO - Processando página de resultados...
+2025-04-12 16:53:33,843 - INFO - Encontradas 21 linhas na tabela
+2025-04-12 16:53:33,845 - INFO - Mapeamento de colunas: {'municipio': 1, 'empreendimento': 2, 'classe': 7, 'atividade': 8, 'ano': 9, 'decisao': 12}
+2025-04-12 16:53:33,847 - WARNING - Link 'Visualizar' não encontrado para: 
+2025-04-12 16:53:33,851 - INFO - Processados 20 resultados
+2025-04-12 16:53:33,852 - INFO - Analisando processo 1/2 da página 1
+2025-04-12 16:53:33,852 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=516
+2025-04-12 16:53:33,912 - INFO - Baixando PDF: https://sistemas.meioambiente.mg.gov.br/licenciamento/uploads/--h68HeLX2zOaCVBep-GESQy0S7h29iP.pdf
+2025-04-12 16:53:35,342 - INFO - PDF baixado com sucesso: pareceres\parecer_1744487613.pdf
+2025-04-12 16:53:35,350 - ERROR - Falha ao extrair texto do PDF
+2025-04-12 16:53:38,351 - INFO - Analisando processo 2/2 da página 1
+2025-04-12 16:53:38,351 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=569
+2025-04-12 16:53:38,429 - WARNING - Link do parecer técnico não encontrado
+2025-04-12 16:53:38,429 - WARNING - Nenhum link de parecer encontrado
+2025-04-12 16:53:41,677 - INFO - Processando página 2 para Ano 2016, Classe 5...
+2025-04-12 16:53:41,678 - INFO - Processando página de resultados...
+2025-04-12 16:53:41,717 - INFO - Encontradas 21 linhas na tabela
+2025-04-12 16:53:41,718 - INFO - Mapeamento de colunas: {'municipio': 1, 'empreendimento': 2, 'classe': 7, 'atividade': 8, 'ano': 9, 'decisao': 12}
+2025-04-12 16:53:41,720 - WARNING - Link 'Visualizar' não encontrado para: 
+2025-04-12 16:53:41,724 - INFO - Processados 20 resultados
+2025-04-12 16:53:41,724 - INFO - Analisando processo 1/2 da página 2
+2025-04-12 16:53:41,725 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=543
+2025-04-12 16:53:41,766 - WARNING - Link do parecer técnico não encontrado
+2025-04-12 16:53:41,767 - WARNING - Nenhum link de parecer encontrado
+2025-04-12 16:53:44,769 - INFO - Analisando processo 2/2 da página 2
+2025-04-12 16:53:44,769 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=544
+2025-04-12 16:53:44,841 - WARNING - Link do parecer técnico não encontrado
+2025-04-12 16:53:44,841 - WARNING - Nenhum link de parecer encontrado
+2025-04-12 16:53:48,141 - INFO - Processando página 3 para Ano 2016, Classe 5...
+2025-04-12 16:53:48,141 - INFO - Processando página de resultados...
+2025-04-12 16:53:48,183 - INFO - Encontradas 21 linhas na tabela
+2025-04-12 16:53:48,184 - INFO - Mapeamento de colunas: {'municipio': 1, 'empreendimento': 2, 'classe': 7, 'atividade': 8, 'ano': 9, 'decisao': 12}
+2025-04-12 16:53:48,186 - WARNING - Link 'Visualizar' não encontrado para: 
+2025-04-12 16:53:48,190 - INFO - Processados 20 resultados
+2025-04-12 16:53:48,190 - INFO - Analisando processo 1/2 da página 3
+2025-04-12 16:53:48,190 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=278
+2025-04-12 16:53:48,245 - INFO - Baixando PDF: https://sistemas.meioambiente.mg.gov.br/licenciamento/uploads/SzEPQQW8k-4NVMIsGCG5viMSZdpOcNBY.pdf
+2025-04-12 16:53:52,229 - INFO - PDF baixado com sucesso: pareceres\parecer_1744487628.pdf
+2025-04-12 16:53:52,270 - INFO - Exigência identificada: Nenhuma
+2025-04-12 16:53:55,271 - INFO - Analisando processo 2/2 da página 3
+2025-04-12 16:53:55,271 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=282
+2025-04-12 16:53:55,325 - INFO - Baixando PDF: https://sistemas.meioambiente.mg.gov.br/licenciamento/uploads/XpD1GL7k8YbO6uN3LNUMNVlFZw6hqp19.pdf
+2025-04-12 16:53:55,809 - INFO - PDF baixado com sucesso: pareceres\parecer_1744487635.pdf
+2025-04-12 16:53:55,856 - INFO - Exigência identificada: Nenhuma
+2025-04-12 16:53:59,111 - INFO - Coletando dados para Ano 2016, Classe 6...
+2025-04-12 16:53:59,111 - INFO - Aplicando filtros: Ano 2016-2024, Classe 6, Decisão Deferida
+2025-04-12 16:54:00,425 - INFO - Token CSRF encontrado: PaP12I7sdeSJjRtwOrBCaE3_5_PznzdzwGzym-8cbEZ11cfp-rUT17rGY1133zEZPsylrMSqRgGML4f1nygkcQ==
+2025-04-12 16:54:00,426 - INFO - URL de consulta: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/consulta-licenca?LicencaSearch%5Bregional_id%5D=&LicencaSearch%5Bmunicipio_id%5D=&LicencaSearch%5Bempreendimento%5D=&LicencaSearch%5Bcnpj%5D=&LicencaSearch%5Bprocesso_adm%5D=&LicencaSearch%5Bnumero_protocolo%5D=&LicencaSearch%5Bmodalidade%5D=&LicencaSearch%5Bclasse%5D=6&LicencaSearch%5Batividade_id%5D=&LicencaSearch%5Bano%5D=2016&LicencaSearch%5Bmes%5D=&LicencaSearch%5Bdata%5D=&LicencaSearch%5Bdecisao%5D=Deferida&_csrf=PaP12I7sdeSJjRtwOrBCaE3_5_PznzdzwGzym-8cbEZ11cfp-rUT17rGY1133zEZPsylrMSqRgGML4f1nygkcQ%3D%3D
+2025-04-12 16:54:00,610 - INFO - Filtros aplicados com sucesso
+2025-04-12 16:54:00,611 - INFO - Processando página 1 para Ano 2016, Classe 6...
+2025-04-12 16:54:00,611 - INFO - Processando página de resultados...
+2025-04-12 16:54:00,654 - INFO - Encontradas 21 linhas na tabela
+2025-04-12 16:54:00,655 - INFO - Mapeamento de colunas: {'municipio': 1, 'empreendimento': 2, 'classe': 7, 'atividade': 8, 'ano': 9, 'decisao': 12}
+2025-04-12 16:54:00,657 - WARNING - Link 'Visualizar' não encontrado para: 
+2025-04-12 16:54:00,661 - INFO - Processados 20 resultados
+2025-04-12 16:54:00,661 - INFO - Analisando processo 1/2 da página 1
+2025-04-12 16:54:00,662 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=559
+2025-04-12 16:54:00,703 - WARNING - Link do parecer técnico não encontrado
+2025-04-12 16:54:00,704 - WARNING - Nenhum link de parecer encontrado
+2025-04-12 16:54:03,705 - INFO - Analisando processo 2/2 da página 1
+2025-04-12 16:54:03,705 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=575
+2025-04-12 16:54:03,752 - WARNING - Link do parecer técnico não encontrado
+2025-04-12 16:54:03,752 - WARNING - Nenhum link de parecer encontrado
+2025-04-12 16:54:06,997 - INFO - Processando página 2 para Ano 2016, Classe 6...
+2025-04-12 16:54:06,998 - INFO - Processando página de resultados...
+2025-04-12 16:54:07,036 - INFO - Encontradas 17 linhas na tabela
+2025-04-12 16:54:07,037 - INFO - Mapeamento de colunas: {'municipio': 1, 'empreendimento': 2, 'classe': 7, 'atividade': 8, 'ano': 9, 'decisao': 12}
+2025-04-12 16:54:07,040 - WARNING - Link 'Visualizar' não encontrado para: 
+2025-04-12 16:54:07,043 - INFO - Processados 16 resultados
+2025-04-12 16:54:07,044 - INFO - Analisando processo 1/2 da página 2
+2025-04-12 16:54:07,044 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=902
+2025-04-12 16:54:07,108 - INFO - Baixando PDF: https://sistemas.meioambiente.mg.gov.br/licenciamento/uploads/K_zZalTsMQMmPDhdRbFKXuOIXZkUGKcF.pdf
+2025-04-12 16:54:07,452 - INFO - PDF baixado com sucesso: pareceres\parecer_1744487647.pdf
+2025-04-12 16:54:07,537 - INFO - Exigência identificada: Nenhuma
+2025-04-12 16:54:10,538 - INFO - Analisando processo 2/2 da página 2
+2025-04-12 16:54:10,538 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=905
+2025-04-12 16:54:10,721 - WARNING - Link do parecer técnico não encontrado
+2025-04-12 16:54:10,722 - WARNING - Nenhum link de parecer encontrado
+2025-04-12 16:54:13,759 - INFO - Link para próxima página não encontrado
+2025-04-12 16:54:13,759 - INFO - Não há mais páginas para Ano 2016, Classe 6
+2025-04-12 16:54:13,770 - ERROR - Erro ao salvar resultados: No module named 'openpyxl'
+2025-04-12 16:54:13,771 - INFO - Coleta finalizada. Total de 14 processos coletados.
+2025-04-12 17:05:45,278 - INFO - Iniciando coleta alternativa de licenças ambientais...
+2025-04-12 17:05:45,280 - INFO - Coletando dados para Ano 2015, Classe 5...
+2025-04-12 17:05:45,281 - INFO - Aplicando filtros: Ano 2015-2024, Classe 5, Decisão Deferida
+2025-04-12 17:05:46,593 - INFO - Token CSRF encontrado: eg7E61kofbpI4xEKJ-QGS8YrK0N9g4cyVjjIAz-CF041XqCoLWIn9xnbYHBeo18hglt8dyfX6ntudLhrcvMuHg==
+2025-04-12 17:05:46,594 - INFO - URL de consulta: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/consulta-licenca?LicencaSearch%5Bregional_id%5D=&LicencaSearch%5Bmunicipio_id%5D=&LicencaSearch%5Bempreendimento%5D=&LicencaSearch%5Bcnpj%5D=&LicencaSearch%5Bprocesso_adm%5D=&LicencaSearch%5Bnumero_protocolo%5D=&LicencaSearch%5Bmodalidade%5D=&LicencaSearch%5Bclasse%5D=5&LicencaSearch%5Batividade_id%5D=&LicencaSearch%5Bano%5D=2015&LicencaSearch%5Bmes%5D=&LicencaSearch%5Bdata%5D=&LicencaSearch%5Bdecisao%5D=Deferida&_csrf=eg7E61kofbpI4xEKJ-QGS8YrK0N9g4cyVjjIAz-CF041XqCoLWIn9xnbYHBeo18hglt8dyfX6ntudLhrcvMuHg%3D%3D
+2025-04-12 17:05:46,795 - INFO - Filtros aplicados com sucesso
+2025-04-12 17:05:46,796 - INFO - Processando página 1 para Ano 2015, Classe 5...
+2025-04-12 17:05:46,796 - INFO - Processando página de resultados...
+2025-04-12 17:05:46,829 - INFO - Encontradas 4 linhas na tabela
+2025-04-12 17:05:46,830 - INFO - Mapeamento de colunas: {'municipio': 1, 'empreendimento': 2, 'classe': 7, 'atividade': 8, 'ano': 9, 'decisao': 12}
+2025-04-12 17:05:46,835 - WARNING - Link 'Visualizar' não encontrado para: 
+2025-04-12 17:05:46,837 - INFO - Processados 3 resultados
+2025-04-12 17:05:46,837 - INFO - Analisando processo 1/2 da página 1
+2025-04-12 17:05:46,838 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=23771
+2025-04-12 17:05:46,892 - WARNING - Link do parecer técnico não encontrado
+2025-04-12 17:05:46,893 - WARNING - Nenhum link de parecer encontrado
+2025-04-12 17:05:49,895 - INFO - Analisando processo 2/2 da página 1
+2025-04-12 17:05:49,895 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=1512
+2025-04-12 17:05:49,952 - INFO - Baixando PDF: https://sistemas.meioambiente.mg.gov.br/licenciamento/uploads/V-9S3nCU6vryEPm10DdUt57B_4q20jsM.pdf
+2025-04-12 17:05:53,192 - INFO - PDF baixado com sucesso: pareceres\parecer_1744488349.pdf
+2025-04-12 17:05:53,198 - ERROR - Falha ao extrair texto do PDF
+2025-04-12 17:05:56,230 - WARNING - Elemento de paginação não encontrado
+2025-04-12 17:05:56,231 - INFO - Não há mais páginas para Ano 2015, Classe 5
+2025-04-12 17:05:56,231 - INFO - Coletando dados para Ano 2015, Classe 6...
+2025-04-12 17:05:56,231 - INFO - Aplicando filtros: Ano 2015-2024, Classe 6, Decisão Deferida
+2025-04-12 17:05:57,397 - INFO - Token CSRF encontrado: F0B6TZeqYhNaD0TqTZB07xQBpR6c7zqpcz0eKUT0_8VYEB4O4-A4Xgs3NZA01y2FUHHyKsa7V-BLcW5BCYXGlQ==
+2025-04-12 17:05:57,398 - INFO - URL de consulta: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/consulta-licenca?LicencaSearch%5Bregional_id%5D=&LicencaSearch%5Bmunicipio_id%5D=&LicencaSearch%5Bempreendimento%5D=&LicencaSearch%5Bcnpj%5D=&LicencaSearch%5Bprocesso_adm%5D=&LicencaSearch%5Bnumero_protocolo%5D=&LicencaSearch%5Bmodalidade%5D=&LicencaSearch%5Bclasse%5D=6&LicencaSearch%5Batividade_id%5D=&LicencaSearch%5Bano%5D=2015&LicencaSearch%5Bmes%5D=&LicencaSearch%5Bdata%5D=&LicencaSearch%5Bdecisao%5D=Deferida&_csrf=F0B6TZeqYhNaD0TqTZB07xQBpR6c7zqpcz0eKUT0_8VYEB4O4-A4Xgs3NZA01y2FUHHyKsa7V-BLcW5BCYXGlQ%3D%3D
+2025-04-12 17:05:57,563 - INFO - Filtros aplicados com sucesso
+2025-04-12 17:05:57,564 - INFO - Processando página 1 para Ano 2015, Classe 6...
+2025-04-12 17:05:57,564 - INFO - Processando página de resultados...
+2025-04-12 17:05:57,594 - INFO - Encontradas 3 linhas na tabela
+2025-04-12 17:05:57,595 - INFO - Mapeamento de colunas: {'municipio': 1, 'empreendimento': 2, 'classe': 7, 'atividade': 8, 'ano': 9, 'decisao': 12}
+2025-04-12 17:05:57,597 - WARNING - Link 'Visualizar' não encontrado para: 
+2025-04-12 17:05:57,598 - INFO - Processados 2 resultados
+2025-04-12 17:05:57,598 - INFO - Analisando processo 1/2 da página 1
+2025-04-12 17:05:57,599 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=25539
+2025-04-12 17:05:57,648 - INFO - Baixando PDF: https://sistemas.meioambiente.mg.gov.br/licenciamento/uploads/9fr0AxnlcccEh1FPLG07Yy159fMW4-8-.pdf
+2025-04-12 17:05:58,004 - INFO - PDF baixado com sucesso: pareceres\parecer_1744488357.pdf
+2025-04-12 17:05:58,119 - INFO - Exigência identificada: Nenhuma
+2025-04-12 17:06:01,121 - INFO - Analisando processo 2/2 da página 1
+2025-04-12 17:06:01,121 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=9146
+2025-04-12 17:06:01,190 - WARNING - Link do parecer técnico não encontrado
+2025-04-12 17:06:01,191 - WARNING - Nenhum link de parecer encontrado
+2025-04-12 17:06:04,223 - WARNING - Elemento de paginação não encontrado
+2025-04-12 17:06:04,224 - INFO - Não há mais páginas para Ano 2015, Classe 6
+2025-04-12 17:06:04,224 - INFO - Coletando dados para Ano 2016, Classe 5...
+2025-04-12 17:06:04,225 - INFO - Aplicando filtros: Ano 2016-2024, Classe 5, Decisão Deferida
+2025-04-12 17:06:05,550 - INFO - Token CSRF encontrado: XVXwwaLCIT7Ve1NVFm5d5kkbXABGQ0jv2FD_CV0FEb8SBZSC1oh7c4RDIi9vKQSMDWsLNBwXJabgHI9hEHQo7w==
+2025-04-12 17:06:05,551 - INFO - URL de consulta: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/consulta-licenca?LicencaSearch%5Bregional_id%5D=&LicencaSearch%5Bmunicipio_id%5D=&LicencaSearch%5Bempreendimento%5D=&LicencaSearch%5Bcnpj%5D=&LicencaSearch%5Bprocesso_adm%5D=&LicencaSearch%5Bnumero_protocolo%5D=&LicencaSearch%5Bmodalidade%5D=&LicencaSearch%5Bclasse%5D=5&LicencaSearch%5Batividade_id%5D=&LicencaSearch%5Bano%5D=2016&LicencaSearch%5Bmes%5D=&LicencaSearch%5Bdata%5D=&LicencaSearch%5Bdecisao%5D=Deferida&_csrf=XVXwwaLCIT7Ve1NVFm5d5kkbXABGQ0jv2FD_CV0FEb8SBZSC1oh7c4RDIi9vKQSMDWsLNBwXJabgHI9hEHQo7w%3D%3D
+2025-04-12 17:06:05,781 - INFO - Filtros aplicados com sucesso
+2025-04-12 17:06:05,783 - INFO - Processando página 1 para Ano 2016, Classe 5...
+2025-04-12 17:06:05,783 - INFO - Processando página de resultados...
+2025-04-12 17:06:05,825 - INFO - Encontradas 21 linhas na tabela
+2025-04-12 17:06:05,827 - INFO - Mapeamento de colunas: {'municipio': 1, 'empreendimento': 2, 'classe': 7, 'atividade': 8, 'ano': 9, 'decisao': 12}
+2025-04-12 17:06:05,829 - WARNING - Link 'Visualizar' não encontrado para: 
+2025-04-12 17:06:05,834 - INFO - Processados 20 resultados
+2025-04-12 17:06:05,834 - INFO - Analisando processo 1/2 da página 1
+2025-04-12 17:06:05,835 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=516
+2025-04-12 17:06:05,880 - INFO - Baixando PDF: https://sistemas.meioambiente.mg.gov.br/licenciamento/uploads/--h68HeLX2zOaCVBep-GESQy0S7h29iP.pdf
+2025-04-12 17:06:07,165 - INFO - PDF baixado com sucesso: pareceres\parecer_1744488365.pdf
+2025-04-12 17:06:07,174 - ERROR - Falha ao extrair texto do PDF
+2025-04-12 17:06:10,176 - INFO - Analisando processo 2/2 da página 1
+2025-04-12 17:06:10,176 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=569
+2025-04-12 17:06:10,220 - WARNING - Link do parecer técnico não encontrado
+2025-04-12 17:06:10,221 - WARNING - Nenhum link de parecer encontrado
+2025-04-12 17:06:13,595 - INFO - Processando página 2 para Ano 2016, Classe 5...
+2025-04-12 17:06:13,595 - INFO - Processando página de resultados...
+2025-04-12 17:06:13,636 - INFO - Encontradas 21 linhas na tabela
+2025-04-12 17:06:13,636 - INFO - Mapeamento de colunas: {'municipio': 1, 'empreendimento': 2, 'classe': 7, 'atividade': 8, 'ano': 9, 'decisao': 12}
+2025-04-12 17:06:13,639 - WARNING - Link 'Visualizar' não encontrado para: 
+2025-04-12 17:06:13,642 - INFO - Processados 20 resultados
+2025-04-12 17:06:13,643 - INFO - Analisando processo 1/2 da página 2
+2025-04-12 17:06:13,644 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=543
+2025-04-12 17:06:13,710 - WARNING - Link do parecer técnico não encontrado
+2025-04-12 17:06:13,710 - WARNING - Nenhum link de parecer encontrado
+2025-04-12 17:06:16,711 - INFO - Analisando processo 2/2 da página 2
+2025-04-12 17:06:16,711 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=544
+2025-04-12 17:06:16,754 - WARNING - Link do parecer técnico não encontrado
+2025-04-12 17:06:16,755 - WARNING - Nenhum link de parecer encontrado
+2025-04-12 17:06:20,007 - INFO - Processando página 3 para Ano 2016, Classe 5...
+2025-04-12 17:06:20,008 - INFO - Processando página de resultados...
+2025-04-12 17:06:20,046 - INFO - Encontradas 21 linhas na tabela
+2025-04-12 17:06:20,047 - INFO - Mapeamento de colunas: {'municipio': 1, 'empreendimento': 2, 'classe': 7, 'atividade': 8, 'ano': 9, 'decisao': 12}
+2025-04-12 17:06:20,049 - WARNING - Link 'Visualizar' não encontrado para: 
+2025-04-12 17:06:20,053 - INFO - Processados 20 resultados
+2025-04-12 17:06:20,053 - INFO - Analisando processo 1/2 da página 3
+2025-04-12 17:06:20,053 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=278
+2025-04-12 17:06:20,097 - INFO - Baixando PDF: https://sistemas.meioambiente.mg.gov.br/licenciamento/uploads/SzEPQQW8k-4NVMIsGCG5viMSZdpOcNBY.pdf
+2025-04-12 17:06:22,596 - INFO - PDF baixado com sucesso: pareceres\parecer_1744488380.pdf
+2025-04-12 17:06:22,632 - INFO - Exigência identificada: Nenhuma
+2025-04-12 17:06:25,634 - INFO - Analisando processo 2/2 da página 3
+2025-04-12 17:06:25,634 - INFO - Analisando processo: https://sistemas.meioambiente.mg.gov.br/licenciamento/site/view-externo?id=282
+2025-04-12 17:06:25,719 - INFO - Baixando PDF: https://sistemas.meioambiente.mg.gov.br/licenciamento/uploads/XpD1GL7k8YbO6uN3LNUMNVlFZw6hqp19.pdf
+2025-04-12 17:06:26,234 - INFO - PDF baixado com sucesso: pareceres\parecer_1744488385.pdf
+2025-04-12 17:06:26,281 - INFO - Exigência identificada: Nenhuma
+2025-04-12 17:06:29,547 - INFO - Coletando dados para Ano 2016, Classe 6...
+2025-04-12 17:06:29,547 - INFO - Aplicando filtros: Ano 2016-2024, Classe 6, Decisão Deferida
+2025-04-12 17:06:30,426 - ERROR - Erro ao acessar página inicial: 500
+2025-04-12 17:06:30,426 - ERROR - Falha ao aplicar filtros para Ano 2016, Classe 6
+2025-04-12 17:06:30,431 - ERROR - Erro ao salvar resultados: No module named 'openpyxl'
+2025-04-12 17:06:30,431 - INFO - Coleta finalizada. Total de 10 processos coletados.

@@ -1,0 +1,327 @@
+2025-04-12 16:38:29,677 - INFO - Iniciando coleta de licenças ambientais...
+2025-04-12 16:38:29,682 - INFO - Iniciando o WebDriver...
+2025-04-12 16:38:29,683 - INFO - ====== WebDriver manager ======
+2025-04-12 16:38:34,461 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-12 16:38:34,743 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-12 16:38:34,836 - INFO - There is no [win64] chromedriver "135.0.7049.84" for browser google-chrome "135.0.7049" in cache
+2025-04-12 16:38:34,836 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-12 16:38:35,199 - INFO - WebDriver version 135.0.7049.84 selected
+2025-04-12 16:38:35,203 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win32/chromedriver-win32.zip
+2025-04-12 16:38:35,203 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win32/chromedriver-win32.zip
+2025-04-12 16:38:35,474 - INFO - Driver downloading response is 200
+2025-04-12 16:38:35,973 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-12 16:38:36,223 - INFO - Driver has been saved in cache [C:\Users\joao.lezsi\.wdm\drivers\chromedriver\win64\135.0.7049.84]
+2025-04-12 16:38:38,021 - INFO - Acessando o portal e aplicando filtros...
+2025-04-12 16:38:52,685 - ERROR - Erro ao aplicar filtros: Message: 
+Stacktrace:
+	GetHandleVerifier [0x003280E3+60707]
+	GetHandleVerifier [0x00328124+60772]
+	(No symbol) [0x00150683]
+	(No symbol) [0x00198660]
+	(No symbol) [0x001989FB]
+	(No symbol) [0x001E1022]
+	(No symbol) [0x001BD094]
+	(No symbol) [0x001DE824]
+	(No symbol) [0x001BCE46]
+	(No symbol) [0x0018C5D3]
+	(No symbol) [0x0018D424]
+	GetHandleVerifier [0x0056BBC3+2435075]
+	GetHandleVerifier [0x00567163+2416035]
+	GetHandleVerifier [0x0058350C+2531660]
+	GetHandleVerifier [0x0033F1B5+155125]
+	GetHandleVerifier [0x00345B5D+182173]
+	GetHandleVerifier [0x0032F9B8+91640]
+	GetHandleVerifier [0x0032FB60+92064]
+	GetHandleVerifier [0x0031A620+4704]
+	BaseThreadInitThunk [0x76FEFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771E82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x771E827E+238]
+	(No symbol) [0x00000000]
+
+2025-04-12 16:38:52,687 - ERROR - Falha ao aplicar filtros. Encerrando coleta.
+2025-04-12 16:38:52,687 - INFO - Fechando o WebDriver...
+2025-04-12 16:38:54,925 - INFO - Fechando o WebDriver...
+2025-04-12 16:38:58,995 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021F96F47380>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/c67b064d0f4c7819da01bf5d3dcdf832
+2025-04-12 16:39:03,108 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021F96F47230>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/c67b064d0f4c7819da01bf5d3dcdf832
+2025-04-12 16:39:07,185 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021F96F470B0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/c67b064d0f4c7819da01bf5d3dcdf832
+2025-04-12 16:39:11,261 - INFO - Coleta finalizada. Total de 0 processos coletados.
+2025-04-12 16:51:53,990 - INFO - Iniciando coleta de licenças ambientais...
+2025-04-12 16:51:53,993 - INFO - Iniciando o WebDriver...
+2025-04-12 16:51:53,993 - INFO - ====== WebDriver manager ======
+2025-04-12 16:51:58,526 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-12 16:51:58,645 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-12 16:51:58,778 - INFO - Driver [C:\Users\joao.lezsi\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-12 16:51:59,935 - INFO - Acessando o portal e aplicando filtros...
+2025-04-12 16:52:07,574 - INFO - Classe 5 selecionada
+2025-04-12 16:52:07,690 - WARNING - Não foi possível selecionar múltiplas classes. Usando apenas Classe 5.
+2025-04-12 16:52:08,074 - INFO - Decisão 'Deferida' selecionada
+2025-04-12 16:52:23,294 - ERROR - Erro ao selecionar Ano: Message: 
+Stacktrace:
+	GetHandleVerifier [0x003280E3+60707]
+	GetHandleVerifier [0x00328124+60772]
+	(No symbol) [0x00150683]
+	(No symbol) [0x00198660]
+	(No symbol) [0x001989FB]
+	(No symbol) [0x001E1022]
+	(No symbol) [0x001BD094]
+	(No symbol) [0x001DE824]
+	(No symbol) [0x001BCE46]
+	(No symbol) [0x0018C5D3]
+	(No symbol) [0x0018D424]
+	GetHandleVerifier [0x0056BBC3+2435075]
+	GetHandleVerifier [0x00567163+2416035]
+	GetHandleVerifier [0x0058350C+2531660]
+	GetHandleVerifier [0x0033F1B5+155125]
+	GetHandleVerifier [0x00345B5D+182173]
+	GetHandleVerifier [0x0032F9B8+91640]
+	GetHandleVerifier [0x0032FB60+92064]
+	GetHandleVerifier [0x0031A620+4704]
+	BaseThreadInitThunk [0x76FEFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771E82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x771E827E+238]
+	(No symbol) [0x00000000]
+
+2025-04-12 16:52:23,384 - INFO - Aplicado filtro de Ano usando campo de entrada
+2025-04-12 16:52:38,600 - ERROR - Erro ao clicar no botão de pesquisa: Message: 
+Stacktrace:
+	GetHandleVerifier [0x003280E3+60707]
+	GetHandleVerifier [0x00328124+60772]
+	(No symbol) [0x00150683]
+	(No symbol) [0x00198660]
+	(No symbol) [0x001989FB]
+	(No symbol) [0x001E1022]
+	(No symbol) [0x001BD094]
+	(No symbol) [0x001DE824]
+	(No symbol) [0x001BCE46]
+	(No symbol) [0x0018C5D3]
+	(No symbol) [0x0018D424]
+	GetHandleVerifier [0x0056BBC3+2435075]
+	GetHandleVerifier [0x00567163+2416035]
+	GetHandleVerifier [0x0058350C+2531660]
+	GetHandleVerifier [0x0033F1B5+155125]
+	GetHandleVerifier [0x00345B5D+182173]
+	GetHandleVerifier [0x0032F9B8+91640]
+	GetHandleVerifier [0x0032FB60+92064]
+	GetHandleVerifier [0x0031A620+4704]
+	BaseThreadInitThunk [0x76FEFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771E82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x771E827E+238]
+	(No symbol) [0x00000000]
+
+2025-04-12 16:52:38,607 - ERROR - Falha ao clicar no botão de pesquisa
+2025-04-12 16:52:38,607 - ERROR - Falha ao aplicar filtros. Encerrando coleta.
+2025-04-12 16:52:38,607 - INFO - Fechando o WebDriver...
+2025-04-12 16:52:40,812 - INFO - Fechando o WebDriver...
+2025-04-12 16:52:44,911 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025116F05EE0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/a5379b7a86b3fe7d3d1f0af6a08476f6
+2025-04-12 16:52:48,991 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025116F05F40>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/a5379b7a86b3fe7d3d1f0af6a08476f6
+2025-04-12 16:52:53,070 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025116F05700>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/a5379b7a86b3fe7d3d1f0af6a08476f6
+2025-04-12 16:52:57,158 - INFO - Coleta finalizada. Total de 0 processos coletados.
+2025-04-12 16:54:31,542 - INFO - Iniciando coleta com configurações: 10 páginas, 5 processos por página
+2025-04-12 16:54:31,545 - INFO - Iniciando o WebDriver...
+2025-04-12 16:54:31,545 - INFO - ====== WebDriver manager ======
+2025-04-12 16:54:36,095 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-12 16:54:36,235 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-12 16:54:36,479 - INFO - Driver [C:\Users\joao.lezsi\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-12 16:54:37,625 - INFO - Acessando o portal e aplicando filtros...
+2025-04-12 16:54:45,854 - INFO - Classe 5 selecionada
+2025-04-12 16:54:45,961 - WARNING - Não foi possível selecionar múltiplas classes. Usando apenas Classe 5.
+2025-04-12 16:54:46,341 - INFO - Decisão 'Deferida' selecionada
+2025-04-12 16:55:01,564 - ERROR - Erro ao selecionar Ano: Message: 
+Stacktrace:
+	GetHandleVerifier [0x003280E3+60707]
+	GetHandleVerifier [0x00328124+60772]
+	(No symbol) [0x00150683]
+	(No symbol) [0x00198660]
+	(No symbol) [0x001989FB]
+	(No symbol) [0x001E1022]
+	(No symbol) [0x001BD094]
+	(No symbol) [0x001DE824]
+	(No symbol) [0x001BCE46]
+	(No symbol) [0x0018C5D3]
+	(No symbol) [0x0018D424]
+	GetHandleVerifier [0x0056BBC3+2435075]
+	GetHandleVerifier [0x00567163+2416035]
+	GetHandleVerifier [0x0058350C+2531660]
+	GetHandleVerifier [0x0033F1B5+155125]
+	GetHandleVerifier [0x00345B5D+182173]
+	GetHandleVerifier [0x0032F9B8+91640]
+	GetHandleVerifier [0x0032FB60+92064]
+	GetHandleVerifier [0x0031A620+4704]
+	BaseThreadInitThunk [0x76FEFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771E82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x771E827E+238]
+	(No symbol) [0x00000000]
+
+2025-04-12 16:55:01,648 - INFO - Aplicado filtro de Ano usando campo de entrada
+2025-04-12 16:55:16,949 - ERROR - Erro ao clicar no botão de pesquisa: Message: 
+Stacktrace:
+	GetHandleVerifier [0x003280E3+60707]
+	GetHandleVerifier [0x00328124+60772]
+	(No symbol) [0x00150683]
+	(No symbol) [0x00198660]
+	(No symbol) [0x001989FB]
+	(No symbol) [0x001E1022]
+	(No symbol) [0x001BD094]
+	(No symbol) [0x001DE824]
+	(No symbol) [0x001BCE46]
+	(No symbol) [0x0018C5D3]
+	(No symbol) [0x0018D424]
+	GetHandleVerifier [0x0056BBC3+2435075]
+	GetHandleVerifier [0x00567163+2416035]
+	GetHandleVerifier [0x0058350C+2531660]
+	GetHandleVerifier [0x0033F1B5+155125]
+	GetHandleVerifier [0x00345B5D+182173]
+	GetHandleVerifier [0x0032F9B8+91640]
+	GetHandleVerifier [0x0032FB60+92064]
+	GetHandleVerifier [0x0031A620+4704]
+	BaseThreadInitThunk [0x76FEFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771E82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x771E827E+238]
+	(No symbol) [0x00000000]
+
+2025-04-12 16:55:16,956 - ERROR - Falha ao clicar no botão de pesquisa
+2025-04-12 16:55:16,956 - ERROR - Falha ao aplicar filtros. Encerrando coleta.
+2025-04-12 16:55:16,956 - INFO - Fechando o WebDriver...
+2025-04-12 16:55:19,178 - INFO - Fechando o WebDriver...
+2025-04-12 16:55:23,248 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013FB4DDA870>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/988c9384df3a1da343a63b3f5ea2f486
+2025-04-12 16:55:27,336 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013FB4DDAFC0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/988c9384df3a1da343a63b3f5ea2f486
+2025-04-12 16:55:31,420 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013FB4DDBEC0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/988c9384df3a1da343a63b3f5ea2f486
+2025-04-12 16:55:35,491 - WARNING - A coleta não retornou resultados.
+2025-04-12 18:26:11,236 - INFO - Iniciando coleta com configurações: 5 páginas, todos processos por página
+2025-04-12 18:26:11,244 - INFO - Iniciando o WebDriver...
+2025-04-12 18:26:11,245 - INFO - ====== WebDriver manager ======
+2025-04-12 18:26:16,703 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-12 18:26:16,817 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-12 18:26:16,908 - INFO - Driver [C:\Users\joao.lezsi\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-12 18:26:18,371 - INFO - Acessando o portal e aplicando filtros...
+2025-04-12 18:26:25,164 - INFO - Classe 5 selecionada
+2025-04-12 18:26:25,266 - WARNING - Não foi possível selecionar múltiplas classes. Usando apenas Classe 5.
+2025-04-12 18:26:25,632 - INFO - Decisão 'Deferida' selecionada
+2025-04-12 18:26:40,907 - ERROR - Erro ao selecionar Ano: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010780E3+60707]
+	GetHandleVerifier [0x01078124+60772]
+	(No symbol) [0x00EA0683]
+	(No symbol) [0x00EE8660]
+	(No symbol) [0x00EE89FB]
+	(No symbol) [0x00F31022]
+	(No symbol) [0x00F0D094]
+	(No symbol) [0x00F2E824]
+	(No symbol) [0x00F0CE46]
+	(No symbol) [0x00EDC5D3]
+	(No symbol) [0x00EDD424]
+	GetHandleVerifier [0x012BBBC3+2435075]
+	GetHandleVerifier [0x012B7163+2416035]
+	GetHandleVerifier [0x012D350C+2531660]
+	GetHandleVerifier [0x0108F1B5+155125]
+	GetHandleVerifier [0x01095B5D+182173]
+	GetHandleVerifier [0x0107F9B8+91640]
+	GetHandleVerifier [0x0107FB60+92064]
+	GetHandleVerifier [0x0106A620+4704]
+	BaseThreadInitThunk [0x76FEFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771E82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x771E827E+238]
+
+2025-04-12 18:26:41,020 - INFO - Aplicado filtro de Ano usando campo de entrada
+2025-04-12 18:26:56,338 - ERROR - Erro ao clicar no botão de pesquisa: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010780E3+60707]
+	GetHandleVerifier [0x01078124+60772]
+	(No symbol) [0x00EA0683]
+	(No symbol) [0x00EE8660]
+	(No symbol) [0x00EE89FB]
+	(No symbol) [0x00F31022]
+	(No symbol) [0x00F0D094]
+	(No symbol) [0x00F2E824]
+	(No symbol) [0x00F0CE46]
+	(No symbol) [0x00EDC5D3]
+	(No symbol) [0x00EDD424]
+	GetHandleVerifier [0x012BBBC3+2435075]
+	GetHandleVerifier [0x012B7163+2416035]
+	GetHandleVerifier [0x012D350C+2531660]
+	GetHandleVerifier [0x0108F1B5+155125]
+	GetHandleVerifier [0x01095B5D+182173]
+	GetHandleVerifier [0x0107F9B8+91640]
+	GetHandleVerifier [0x0107FB60+92064]
+	GetHandleVerifier [0x0106A620+4704]
+	BaseThreadInitThunk [0x76FEFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771E82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x771E827E+238]
+
+2025-04-12 18:26:56,357 - ERROR - Falha ao clicar no botão de pesquisa
+2025-04-12 18:26:56,358 - ERROR - Falha ao aplicar filtros. Encerrando coleta.
+2025-04-12 18:26:56,358 - INFO - Fechando o WebDriver...
+2025-04-12 18:26:58,608 - INFO - Fechando o WebDriver...
+2025-04-12 18:27:02,673 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D2BC4AF530>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/a9a8a28b1fdcd57b07d2ed6f4999e2fb
+2025-04-12 18:27:06,745 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D2BC4AFB90>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/a9a8a28b1fdcd57b07d2ed6f4999e2fb
+2025-04-12 18:27:10,819 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D2BC4AFCE0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/a9a8a28b1fdcd57b07d2ed6f4999e2fb
+2025-04-12 18:27:14,887 - WARNING - A coleta não retornou resultados.
+2025-04-12 18:31:00,488 - INFO - Iniciando coleta de licenças ambientais...
+2025-04-12 18:31:00,491 - INFO - Iniciando o WebDriver...
+2025-04-12 18:31:00,491 - INFO - ====== WebDriver manager ======
+2025-04-12 18:31:05,872 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-12 18:31:05,970 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-12 18:31:06,076 - INFO - Driver [C:\Users\joao.lezsi\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-12 18:31:07,309 - INFO - Acessando o portal e aplicando filtros...
+2025-04-12 18:31:14,244 - INFO - Classe 5 selecionada
+2025-04-12 18:31:14,440 - WARNING - Não foi possível selecionar múltiplas classes. Usando apenas Classe 5.
+2025-04-12 18:31:14,749 - INFO - Decisão 'Deferida' selecionada
+2025-04-12 18:31:30,201 - ERROR - Erro ao selecionar Ano: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010780E3+60707]
+	GetHandleVerifier [0x01078124+60772]
+	(No symbol) [0x00EA0683]
+	(No symbol) [0x00EE8660]
+	(No symbol) [0x00EE89FB]
+	(No symbol) [0x00F31022]
+	(No symbol) [0x00F0D094]
+	(No symbol) [0x00F2E824]
+	(No symbol) [0x00F0CE46]
+	(No symbol) [0x00EDC5D3]
+	(No symbol) [0x00EDD424]
+	GetHandleVerifier [0x012BBBC3+2435075]
+	GetHandleVerifier [0x012B7163+2416035]
+	GetHandleVerifier [0x012D350C+2531660]
+	GetHandleVerifier [0x0108F1B5+155125]
+	GetHandleVerifier [0x01095B5D+182173]
+	GetHandleVerifier [0x0107F9B8+91640]
+	GetHandleVerifier [0x0107FB60+92064]
+	GetHandleVerifier [0x0106A620+4704]
+	BaseThreadInitThunk [0x76FEFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771E82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x771E827E+238]
+
+2025-04-12 18:31:30,310 - INFO - Aplicado filtro de Ano usando campo de entrada
+2025-04-12 18:31:45,607 - ERROR - Erro ao clicar no botão de pesquisa: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010780E3+60707]
+	GetHandleVerifier [0x01078124+60772]
+	(No symbol) [0x00EA0683]
+	(No symbol) [0x00EE8660]
+	(No symbol) [0x00EE89FB]
+	(No symbol) [0x00F31022]
+	(No symbol) [0x00F0D094]
+	(No symbol) [0x00F2E824]
+	(No symbol) [0x00F0CE46]
+	(No symbol) [0x00EDC5D3]
+	(No symbol) [0x00EDD424]
+	GetHandleVerifier [0x012BBBC3+2435075]
+	GetHandleVerifier [0x012B7163+2416035]
+	GetHandleVerifier [0x012D350C+2531660]
+	GetHandleVerifier [0x0108F1B5+155125]
+	GetHandleVerifier [0x01095B5D+182173]
+	GetHandleVerifier [0x0107F9B8+91640]
+	GetHandleVerifier [0x0107FB60+92064]
+	GetHandleVerifier [0x0106A620+4704]
+	BaseThreadInitThunk [0x76FEFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771E82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x771E827E+238]
+
+2025-04-12 18:31:45,614 - ERROR - Falha ao clicar no botão de pesquisa
+2025-04-12 18:31:45,614 - ERROR - Falha ao aplicar filtros. Encerrando coleta.
+2025-04-12 18:31:45,615 - INFO - Fechando o WebDriver...
+2025-04-12 18:31:47,973 - INFO - Fechando o WebDriver...
+2025-04-12 18:31:52,023 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F148E268A0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/ca66df2b306f3dbd48e8c3c7a79804a5
+2025-04-12 18:31:56,102 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F148E26390>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/ca66df2b306f3dbd48e8c3c7a79804a5
+2025-04-12 18:32:00,161 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F148E26A50>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/ca66df2b306f3dbd48e8c3c7a79804a5
+2025-04-12 18:32:04,252 - INFO - Coleta finalizada. Total de 0 processos coletados.
