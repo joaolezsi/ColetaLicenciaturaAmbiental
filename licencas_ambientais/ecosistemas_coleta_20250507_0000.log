@@ -1,0 +1,21 @@
+2025-05-07 00:00:28,857 - INFO - ==================================================
+2025-05-07 00:00:28,858 - INFO - INICIANDO COLETA DE LICENÇAS AMBIENTAIS - ECOSISTEMAS
+2025-05-07 00:00:28,858 - INFO - ==================================================
+2025-05-07 00:00:28,859 - INFO - Parâmetros de execução:
+2025-05-07 00:00:28,859 - INFO - - Máximo de páginas: 100
+2025-05-07 00:00:28,859 - INFO - - Prefixo de saída: licencas_ecosistemas
+2025-05-07 00:00:28,859 - INFO - - Modo manual: False
+2025-05-07 00:00:28,860 - INFO - - Modo verbose: False
+2025-05-07 00:00:28,870 - INFO - ==================================================
+2025-05-07 00:00:28,921 - INFO - Executando com interface gráfica
+2025-05-07 00:00:31,565 - INFO - Driver Selenium configurado com sucesso
+2025-05-07 00:00:31,565 - INFO - Iniciando coleta de dados do sistema ecosistemas
+2025-05-07 00:00:31,566 - INFO - Acessando URL: https://ecosistemas.meioambiente.mg.gov.br/sla/#/acesso-visitante
+2025-05-07 00:00:38,180 - INFO - Página inicial carregada com sucesso
+2025-05-07 00:00:38,180 - INFO - Aplicando filtro para Classe 6
+2025-05-07 00:00:43,633 - ERROR - Não foi possível encontrar o campo de classe predominante
+2025-05-07 00:00:43,634 - ERROR - Falha ao aplicar filtro de Classe 6. Encerrando coleta.
+2025-05-07 00:00:43,635 - WARNING - Nenhum resultado foi coletado.
+2025-05-07 00:00:43,636 - INFO - ==================================================
+2025-05-07 00:00:43,636 - INFO - COLETA FINALIZADA
+2025-05-07 00:00:43,637 - INFO - ==================================================

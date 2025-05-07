@@ -1,0 +1,207 @@
+2025-05-07 00:22:12,378 - INFO - ==================================================
+2025-05-07 00:22:12,379 - INFO - INICIANDO COLETA DE LICENÇAS AMBIENTAIS - ECOSISTEMAS
+2025-05-07 00:22:12,379 - INFO - ==================================================
+2025-05-07 00:22:12,380 - INFO - Parâmetros de execução:
+2025-05-07 00:22:12,380 - INFO - - Máximo de páginas: 150
+2025-05-07 00:22:12,380 - INFO - - Prefixo de saída: licencas_ecosistemas
+2025-05-07 00:22:12,380 - INFO - - Modo manual: True
+2025-05-07 00:22:12,380 - INFO - - Modo verbose: False
+2025-05-07 00:22:12,392 - INFO - ==================================================
+2025-05-07 00:22:14,901 - INFO - Abrindo o navegador para interação manual com a página
+2025-05-07 00:55:08,400 - INFO - Iniciando coleta automática com o coletor otimizado
+2025-05-07 00:55:08,401 - INFO - Executando com interface gráfica
+2025-05-07 00:55:11,136 - INFO - Driver Selenium configurado com sucesso
+2025-05-07 00:55:13,307 - INFO - Processando página 1
+2025-05-07 00:55:13,308 - INFO - Extraindo dados da tabela de resultados
+2025-05-07 00:55:13,330 - INFO - Tabela encontrada usando seletor: //table
+2025-05-07 00:55:13,583 - INFO - Cabeçalhos encontrados: ['Classe predominante', 'Fator locacional', 'Modalidade licenciamento', 'Fase do licenciamento', 'Tipo solicitação', 'Código', 'Descrição', 'Parâmetro', 'Quantidade', 'Unidade', 'Grupo do ato autorizativo', 'Tipo do ato autorizativo', 'Número', 'Entidade responsável', 'Data do protocolo', 'Documentos']
+2025-05-07 00:55:13,594 - INFO - Encontradas 44 linhas usando seletor: //table//tr[position()>1]
+2025-05-07 00:55:13,605 - WARNING - Linha 1 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:13,643 - INFO - Dados extraídos da linha 1: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:13,657 - WARNING - Linha 2 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:13,704 - INFO - Dados extraídos da linha 2: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:13,716 - WARNING - Linha 3 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:13,752 - INFO - Dados extraídos da linha 3: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:13,764 - WARNING - Linha 4 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:13,809 - INFO - Dados extraídos da linha 4: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:13,819 - WARNING - Linha 5 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:13,853 - INFO - Dados extraídos da linha 5: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:13,870 - WARNING - Linha 6 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:13,899 - INFO - Dados extraídos da linha 6: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:13,908 - WARNING - Linha 7 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:13,937 - INFO - Dados extraídos da linha 7: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:13,952 - WARNING - Linha 8 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:13,981 - INFO - Dados extraídos da linha 8: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:13,989 - WARNING - Linha 9 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,021 - INFO - Dados extraídos da linha 9: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,032 - WARNING - Linha 10 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,054 - INFO - Dados extraídos da linha 10: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,060 - WARNING - Linha 11 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,081 - INFO - Dados extraídos da linha 11: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,087 - WARNING - Linha 12 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,106 - INFO - Dados extraídos da linha 12: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,111 - WARNING - Linha 13 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,131 - INFO - Dados extraídos da linha 13: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,139 - WARNING - Linha 14 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,157 - INFO - Dados extraídos da linha 14: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,162 - WARNING - Linha 15 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,181 - INFO - Dados extraídos da linha 15: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,188 - WARNING - Linha 16 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,209 - INFO - Dados extraídos da linha 16: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,218 - WARNING - Linha 17 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,235 - INFO - Dados extraídos da linha 17: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,242 - WARNING - Linha 18 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,261 - INFO - Dados extraídos da linha 18: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,268 - WARNING - Linha 19 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,288 - INFO - Dados extraídos da linha 19: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,293 - WARNING - Linha 20 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,311 - INFO - Dados extraídos da linha 20: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,318 - WARNING - Linha 21 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,336 - INFO - Dados extraídos da linha 21: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,342 - WARNING - Linha 22 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,366 - INFO - Dados extraídos da linha 22: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,374 - WARNING - Linha 23 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,403 - INFO - Dados extraídos da linha 23: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,413 - WARNING - Linha 24 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,445 - INFO - Dados extraídos da linha 24: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,453 - WARNING - Linha 25 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,476 - INFO - Dados extraídos da linha 25: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,485 - WARNING - Linha 26 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,508 - INFO - Dados extraídos da linha 26: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,517 - WARNING - Linha 27 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,541 - INFO - Dados extraídos da linha 27: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,549 - WARNING - Linha 28 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,570 - INFO - Dados extraídos da linha 28: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,576 - WARNING - Linha 29 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,594 - INFO - Dados extraídos da linha 29: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,603 - WARNING - Linha 30 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,622 - INFO - Dados extraídos da linha 30: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,628 - WARNING - Linha 31 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,648 - INFO - Dados extraídos da linha 31: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,654 - WARNING - Linha 32 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,672 - INFO - Dados extraídos da linha 32: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,678 - WARNING - Linha 33 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,696 - INFO - Dados extraídos da linha 33: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,703 - WARNING - Linha 34 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,721 - INFO - Dados extraídos da linha 34: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,727 - WARNING - Linha 35 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,762 - INFO - Dados extraídos da linha 35: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,771 - WARNING - Linha 36 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,797 - INFO - Dados extraídos da linha 36: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,805 - WARNING - Linha 37 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,827 - INFO - Dados extraídos da linha 37: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,837 - WARNING - Linha 38 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,864 - INFO - Dados extraídos da linha 38: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,875 - WARNING - Linha 39 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,910 - INFO - Dados extraídos da linha 39: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,921 - WARNING - Linha 40 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,954 - INFO - Dados extraídos da linha 40: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:14,967 - WARNING - Linha 41 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:14,997 - INFO - Dados extraídos da linha 41: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:15,007 - WARNING - Linha 42 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:15,028 - INFO - Dados extraídos da linha 42: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:15,036 - WARNING - Linha 43 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:15,057 - INFO - Dados extraídos da linha 43: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:15,066 - WARNING - Linha 44 tem 1 colunas, mas o cabeçalho tem 16 colunas
+2025-05-07 00:55:15,093 - INFO - Dados extraídos da linha 44: ['classe_predominante', 'tipo_de_estudo']
+2025-05-07 00:55:15,093 - INFO - Total de 44 resultados extraídos da tabela
+2025-05-07 00:55:15,094 - INFO - Processando registro 1 de 44 na página 1
+2025-05-07 00:55:15,099 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:16,101 - INFO - Processando registro 2 de 44 na página 1
+2025-05-07 00:55:16,105 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:17,106 - INFO - Processando registro 3 de 44 na página 1
+2025-05-07 00:55:17,112 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:18,113 - INFO - Processando registro 4 de 44 na página 1
+2025-05-07 00:55:18,116 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:19,119 - INFO - Processando registro 5 de 44 na página 1
+2025-05-07 00:55:19,123 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:20,124 - INFO - Processando registro 6 de 44 na página 1
+2025-05-07 00:55:20,129 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:21,130 - INFO - Processando registro 7 de 44 na página 1
+2025-05-07 00:55:21,135 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:22,137 - INFO - Processando registro 8 de 44 na página 1
+2025-05-07 00:55:22,141 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:23,142 - INFO - Processando registro 9 de 44 na página 1
+2025-05-07 00:55:23,147 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:24,149 - INFO - Processando registro 10 de 44 na página 1
+2025-05-07 00:55:24,156 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:25,157 - INFO - Processando registro 11 de 44 na página 1
+2025-05-07 00:55:25,161 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:26,164 - INFO - Processando registro 12 de 44 na página 1
+2025-05-07 00:55:26,169 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:27,171 - INFO - Processando registro 13 de 44 na página 1
+2025-05-07 00:55:27,174 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:28,177 - INFO - Processando registro 14 de 44 na página 1
+2025-05-07 00:55:28,182 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:29,184 - INFO - Processando registro 15 de 44 na página 1
+2025-05-07 00:55:29,189 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:30,190 - INFO - Processando registro 16 de 44 na página 1
+2025-05-07 00:55:30,194 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:31,195 - INFO - Processando registro 17 de 44 na página 1
+2025-05-07 00:55:31,200 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:32,203 - INFO - Processando registro 18 de 44 na página 1
+2025-05-07 00:55:32,208 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:33,210 - INFO - Processando registro 19 de 44 na página 1
+2025-05-07 00:55:33,215 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:34,217 - INFO - Processando registro 20 de 44 na página 1
+2025-05-07 00:55:34,220 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:35,222 - INFO - Processando registro 21 de 44 na página 1
+2025-05-07 00:55:35,226 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:36,227 - INFO - Processando registro 22 de 44 na página 1
+2025-05-07 00:55:36,232 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:37,234 - INFO - Processando registro 23 de 44 na página 1
+2025-05-07 00:55:37,239 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:38,241 - INFO - Processando registro 24 de 44 na página 1
+2025-05-07 00:55:38,245 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:39,247 - INFO - Processando registro 25 de 44 na página 1
+2025-05-07 00:55:39,251 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:40,253 - INFO - Processando registro 26 de 44 na página 1
+2025-05-07 00:55:40,257 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:41,259 - INFO - Processando registro 27 de 44 na página 1
+2025-05-07 00:55:41,265 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:42,267 - INFO - Processando registro 28 de 44 na página 1
+2025-05-07 00:55:42,273 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:43,274 - INFO - Processando registro 29 de 44 na página 1
+2025-05-07 00:55:43,277 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:44,279 - INFO - Processando registro 30 de 44 na página 1
+2025-05-07 00:55:44,284 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:45,286 - INFO - Processando registro 31 de 44 na página 1
+2025-05-07 00:55:45,291 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:46,293 - INFO - Processando registro 32 de 44 na página 1
+2025-05-07 00:55:46,298 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:47,299 - INFO - Processando registro 33 de 44 na página 1
+2025-05-07 00:55:47,304 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:48,306 - INFO - Processando registro 34 de 44 na página 1
+2025-05-07 00:55:48,311 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:49,312 - INFO - Processando registro 35 de 44 na página 1
+2025-05-07 00:55:49,317 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:50,319 - INFO - Processando registro 36 de 44 na página 1
+2025-05-07 00:55:50,323 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:51,325 - INFO - Processando registro 37 de 44 na página 1
+2025-05-07 00:55:51,331 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:52,332 - INFO - Processando registro 38 de 44 na página 1
+2025-05-07 00:55:52,336 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:53,338 - INFO - Processando registro 39 de 44 na página 1
+2025-05-07 00:55:53,342 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:54,345 - INFO - Processando registro 40 de 44 na página 1
+2025-05-07 00:55:54,350 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:55,351 - INFO - Processando registro 41 de 44 na página 1
+2025-05-07 00:55:55,355 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:56,356 - INFO - Processando registro 42 de 44 na página 1
+2025-05-07 00:55:56,360 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:57,362 - INFO - Processando registro 43 de 44 na página 1
+2025-05-07 00:55:57,366 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:58,368 - INFO - Processando registro 44 de 44 na página 1
+2025-05-07 00:55:58,373 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:55:59,375 - INFO - Tentando navegar para a próxima página
+2025-05-07 00:55:59,375 - INFO - Rolando até o final da página para encontrar controles de paginação
+2025-05-07 00:56:03,574 - INFO - Screenshot da paginação salvo em paginacao_20250507_005603.png
+2025-05-07 00:56:03,592 - INFO - Não há mais páginas disponíveis
+2025-05-07 00:56:03,593 - INFO - Chegou à última página. Finalizando coleta.
+2025-05-07 00:56:03,608 - INFO - Resultados salvos em CSV: licencas_ecosistemas_20250507_0056.csv
+2025-05-07 00:56:03,905 - INFO - Resultados salvos em Excel: licencas_ecosistemas_20250507_0056.xlsx
+2025-05-07 00:56:03,906 - INFO - === RESUMO DOS TIPOS DE ESTUDOS ENCONTRADOS ===
+2025-05-07 00:56:03,906 - INFO - - A determinar: 44
+2025-05-07 00:56:03,907 - INFO - ============================================
+2025-05-07 00:56:06,344 - INFO - Driver fechado com sucesso
+2025-05-07 00:56:06,344 - INFO - Coleta concluída. Total de 44 registros coletados.

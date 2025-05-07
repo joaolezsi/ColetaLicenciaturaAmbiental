@@ -1,0 +1,111 @@
+2025-05-07 01:25:08,159 - INFO - ==================================================
+2025-05-07 01:25:08,163 - INFO - INICIANDO COLETA DE LICENÇAS AMBIENTAIS - ECOSISTEMAS
+2025-05-07 01:25:08,164 - INFO - ==================================================
+2025-05-07 01:25:08,165 - INFO - Parâmetros de execução:
+2025-05-07 01:25:08,166 - INFO - - Máximo de páginas: 100
+2025-05-07 01:25:08,167 - INFO - - Prefixo de saída: licencas_ecosistemas
+2025-05-07 01:25:08,168 - INFO - - Modo manual: True
+2025-05-07 01:25:08,169 - INFO - - Modo verbose: False
+2025-05-07 01:25:08,181 - INFO - ==================================================
+2025-05-07 01:25:08,337 - INFO - Executando com interface gráfica
+2025-05-07 01:25:13,096 - INFO - Driver Selenium configurado com sucesso
+2025-05-07 01:25:13,096 - INFO - Acessando URL: https://ecosistemas.meioambiente.mg.gov.br/sla/#/acesso-visitante
+2025-05-07 01:25:20,235 - INFO - Página inicial carregada com sucesso
+2025-05-07 01:25:25,698 - INFO - Processando página 1
+2025-05-07 01:25:25,699 - INFO - Extraindo dados da tabela de resultados
+2025-05-07 01:25:25,742 - INFO - Cabeçalhos extraídos: ['Processo', 'Pessoa Física/Jurídica', 'Empreendimento', 'Modalidade', 'CPF/CNPJ', 'Atividade Principal', 'Município da Solicitação', 'Ações']
+2025-05-07 01:25:25,743 - INFO - Dados extraídos da linha 2: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 01:25:25,746 - INFO - Dados extraídos da linha 3: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 01:25:25,747 - INFO - Dados extraídos da linha 4: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 01:25:25,748 - INFO - Dados extraídos da linha 5: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 01:25:25,750 - INFO - Dados extraídos da linha 6: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 01:25:25,751 - INFO - Dados extraídos da linha 7: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 01:25:25,752 - INFO - Dados extraídos da linha 8: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 01:25:25,753 - INFO - Dados extraídos da linha 9: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 01:25:25,754 - INFO - Dados extraídos da linha 10: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 01:25:25,756 - INFO - Dados extraídos da linha 11: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 01:25:25,757 - INFO - Dados extraídos da linha 12: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 01:25:25,758 - INFO - Total de 11 resultados extraídos da tabela
+2025-05-07 01:25:25,759 - INFO - Encontrados 11 registros na página 1
+2025-05-07 01:25:25,759 - INFO - Processando registro 1 de 11 na página 1
+2025-05-07 01:25:25,759 - INFO - Processando registro 2 de 11 na página 1
+2025-05-07 01:25:25,761 - INFO - Processando registro 3 de 11 na página 1
+2025-05-07 01:25:25,762 - INFO - Processando registro 4 de 11 na página 1
+2025-05-07 01:25:25,763 - INFO - Processando registro 5 de 11 na página 1
+2025-05-07 01:25:25,764 - INFO - Processando registro 6 de 11 na página 1
+2025-05-07 01:25:25,764 - INFO - Processando registro 7 de 11 na página 1
+2025-05-07 01:25:25,765 - INFO - Processando registro 8 de 11 na página 1
+2025-05-07 01:25:25,767 - INFO - Processando registro 9 de 11 na página 1
+2025-05-07 01:25:25,767 - INFO - Processando registro 10 de 11 na página 1
+2025-05-07 01:25:25,768 - INFO - Processando registro 11 de 11 na página 1
+2025-05-07 01:25:25,769 - INFO - Tentando navegar para a próxima página
+2025-05-07 01:25:25,770 - INFO - Rolando até o final da página para encontrar controles de paginação
+2025-05-07 01:25:30,160 - INFO - Screenshot da paginação salvo em paginacao_20250507_012529.png
+2025-05-07 01:25:30,230 - INFO - Encontrado indicador de páginas: 1 - 10 de 137 Registros
+2025-05-07 01:25:30,231 - INFO - Indicador interpretado: início=1, fim=10, total=137
+2025-05-07 01:25:30,232 - INFO - Página atual calculada: 1, próxima será: 2
+2025-05-07 01:25:31,570 - INFO - Screenshot após rolagem adicional salvo em paginacao_apos_rolagem_20250507_012531.png
+2025-05-07 01:25:31,710 - INFO - Encontrados 1 botões com o seletor: //table/following-sibling::*//*[contains(text(), '2')]
+2025-05-07 01:25:32,232 - INFO - Total de 1 possíveis botões de paginação encontrados
+2025-05-07 01:25:32,251 - INFO - Encontrados 36 botões adicionais via JavaScript
+2025-05-07 01:25:32,253 - INFO - Total de 35 botões únicos após remoção de duplicados
+2025-05-07 01:25:32,320 - INFO - Botão 1: texto='2', href='None', onclick='None', classes=''
+2025-05-07 01:25:32,376 - INFO - Botão 2: texto='Sistema de Licenciamento Ambiental | Sistema Estadual de Meio Ambiente e Recursos Hídricos - Sisema', href='None', onclick='None', classes='navbar-header'
+2025-05-07 01:25:32,492 - INFO - Botão 3: texto='Município da Solicitação', href='None', onclick='None', classes='ng-select-container'
+2025-05-07 01:25:32,541 - INFO - Botão 4: texto='', href='None', onclick='None', classes='ng-arrow-wrapper'
+2025-05-07 01:25:32,595 - INFO - Botão 5: texto='Atividades', href='None', onclick='None', classes='ng-select-container'
+2025-05-07 01:25:32,673 - INFO - Botão 6: texto='', href='None', onclick='None', classes='ng-arrow-wrapper'
+2025-05-07 01:25:32,744 - INFO - Botão 7: texto='Modalidade', href='None', onclick='None', classes='ng-select-container'
+2025-05-07 01:25:32,810 - INFO - Botão 8: texto='', href='None', onclick='None', classes='ng-arrow-wrapper'
+2025-05-07 01:25:32,885 - INFO - Botão 9: texto='6
+×', href='None', onclick='None', classes='ng-select-container ng-has-value'
+2025-05-07 01:25:32,940 - INFO - Botão 10: texto='6', href='None', onclick='None', classes='ng-value'
+2025-05-07 01:25:32,986 - INFO - Botão 11: texto='', href='None', onclick='None', classes='ng-arrow-wrapper'
+2025-05-07 01:25:33,041 - INFO - Botão 12: texto='Unidades de conservação / áreas protegidas', href='None', onclick='None', classes='ng-select-container'
+2025-05-07 01:25:33,097 - INFO - Botão 13: texto='', href='None', onclick='None', classes='ng-arrow-wrapper'
+2025-05-07 01:25:33,153 - INFO - Botão 14: texto='', href='None', onclick='None', classes=''
+2025-05-07 01:25:33,224 - INFO - Botão 15: texto='', href='None', onclick='None', classes=''
+2025-05-07 01:25:33,283 - INFO - Botão 16: texto='', href='None', onclick='None', classes=''
+2025-05-07 01:25:33,333 - INFO - Botão 17: texto='', href='None', onclick='None', classes=''
+2025-05-07 01:25:33,384 - INFO - Botão 18: texto='', href='None', onclick='None', classes=''
+2025-05-07 01:25:33,463 - INFO - Botão 19: texto='', href='None', onclick='None', classes=''
+2025-05-07 01:25:33,524 - INFO - Botão 20: texto='', href='None', onclick='None', classes=''
+2025-05-07 01:25:33,598 - INFO - Botão 21: texto='', href='None', onclick='None', classes=''
+2025-05-07 01:25:33,655 - INFO - Botão 22: texto='', href='None', onclick='None', classes=''
+2025-05-07 01:25:33,707 - INFO - Botão 23: texto='', href='None', onclick='None', classes=''
+2025-05-07 01:25:33,769 - INFO - Botão 24: texto='', href='None', onclick='None', classes='colorDiv'
+2025-05-07 01:25:33,823 - INFO - Botão 25: texto='', href='None', onclick='None', classes='colorDiv'
+2025-05-07 01:25:33,870 - INFO - Botão 26: texto='1', href='None', onclick='None', classes='colorDiv super'
+2025-05-07 01:25:33,925 - INFO - Botão 27: texto='2', href='None', onclick='None', classes=''
+2025-05-07 01:25:33,978 - INFO - Botão 28: texto='2', href='None', onclick='None', classes='colorDiv'
+2025-05-07 01:25:34,026 - INFO - Botão 29: texto='3', href='None', onclick='None', classes='colorDiv'
+2025-05-07 01:25:34,098 - INFO - Botão 30: texto='4', href='None', onclick='None', classes='colorDiv'
+2025-05-07 01:25:34,154 - INFO - Botão 31: texto='5', href='None', onclick='None', classes='colorDiv'
+2025-05-07 01:25:34,215 - INFO - Botão 32: texto='', href='None', onclick='None', classes='colorDiv'
+2025-05-07 01:25:34,274 - INFO - Botão 33: texto='', href='None', onclick='None', classes='colorDiv'
+2025-05-07 01:25:34,317 - INFO - Botão 34: texto='Voltar', href='None', onclick='None', classes='btn btn-primary float-right pull-right'
+2025-05-07 01:25:34,364 - INFO - Botão 35: texto='', href='None', onclick='None', classes='scroll icon'
+2025-05-07 01:25:34,365 - INFO - Tentativa 1: Clicando em botões com texto de próxima página
+2025-05-07 01:25:34,380 - INFO - Tentando clicar no botão com texto '2'
+2025-05-07 01:25:35,032 - INFO - Clicou com sucesso no botão '2'
+2025-05-07 01:25:40,232 - INFO - Screenshot da nova página salvo em nova_pagina_20250507_012540.png
+2025-05-07 01:25:40,259 - INFO - Tabela encontrada com conteúdo. Verificando se é uma nova página...
+2025-05-07 01:25:40,260 - INFO - Tabela encontrada com conteúdo, considerando navegação bem-sucedida
+2025-05-07 01:25:43,262 - INFO - Processando página 2
+2025-05-07 01:25:43,273 - INFO - Extraindo dados da tabela de resultados
+2025-05-07 01:25:43,310 - INFO - Cabeçalhos extraídos: ['Processo', 'Pessoa Física/Jurídica', 'Empreendimento', 'Modalidade', 'CPF/CNPJ', 'Atividade Principal', 'Município da Solicitação', 'Ações']
+2025-05-07 01:25:43,312 - INFO - Dados extraídos da linha 2: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 01:25:43,313 - INFO - Total de 1 resultados extraídos da tabela
+2025-05-07 01:25:43,313 - INFO - Encontrados 1 registros na página 2
+2025-05-07 01:25:43,314 - INFO - Processando registro 1 de 1 na página 2
+2025-05-07 01:25:43,315 - INFO - Tentando navegar para a próxima página
+2025-05-07 01:25:43,316 - INFO - Rolando até o final da página para encontrar controles de paginação
+2025-05-07 01:25:47,705 - INFO - Screenshot da paginação salvo em paginacao_20250507_012547.png
+2025-05-07 01:25:47,740 - INFO - Não há mais páginas disponíveis
+2025-05-07 01:25:47,740 - INFO - Não há mais páginas disponíveis.
+2025-05-07 01:25:48,245 - INFO - Resultados salvos em Excel: licencas_ecosistemas_20250507_0125.xlsx
+2025-05-07 01:25:48,260 - INFO - Resultados salvos em CSV: licencas_ecosistemas_20250507_0125.csv
+2025-05-07 01:25:50,731 - INFO - Navegador fechado com sucesso.
+2025-05-07 01:25:50,732 - INFO - ==================================================
+2025-05-07 01:25:50,732 - INFO - COLETA FINALIZADA
+2025-05-07 01:25:50,733 - INFO - ==================================================

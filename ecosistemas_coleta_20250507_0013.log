@@ -1,0 +1,55 @@
+2025-05-07 00:13:11,439 - INFO - ==================================================
+2025-05-07 00:13:11,439 - INFO - INICIANDO COLETA DE LICENÇAS AMBIENTAIS - ECOSISTEMAS
+2025-05-07 00:13:11,440 - INFO - ==================================================
+2025-05-07 00:13:11,440 - INFO - Parâmetros de execução:
+2025-05-07 00:13:11,440 - INFO - - Máximo de páginas: 150
+2025-05-07 00:13:11,441 - INFO - - Prefixo de saída: licencas_ecosistemas
+2025-05-07 00:13:11,441 - INFO - - Modo manual: True
+2025-05-07 00:13:11,441 - INFO - - Modo verbose: False
+2025-05-07 00:13:11,452 - INFO - ==================================================
+2025-05-07 00:13:14,479 - INFO - Abrindo o navegador para interação manual com a página
+2025-05-07 00:13:26,817 - INFO - Iniciando coleta automática com o coletor otimizado
+2025-05-07 00:13:26,817 - INFO - Executando com interface gráfica
+2025-05-07 00:13:29,535 - INFO - Driver Selenium configurado com sucesso
+2025-05-07 00:13:31,659 - INFO - Processando página 1
+2025-05-07 00:13:31,659 - INFO - Extraindo dados da tabela de resultados
+2025-05-07 00:13:31,687 - INFO - Tabela encontrada usando seletor: //table
+2025-05-07 00:13:31,844 - INFO - Cabeçalhos encontrados: ['Processo', 'Pessoa Física/Jurídica', 'Empreendimento', 'Modalidade', 'CPF/CNPJ', 'Atividade Principal', 'Município da Solicitação', 'Ações']
+2025-05-07 00:13:31,861 - INFO - Encontradas 9 linhas usando seletor: //table//tr[position()>1]
+2025-05-07 00:13:32,029 - INFO - Dados extraídos da linha 1: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 00:13:32,147 - INFO - Dados extraídos da linha 2: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 00:13:32,275 - INFO - Dados extraídos da linha 3: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 00:13:32,399 - INFO - Dados extraídos da linha 4: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 00:13:32,510 - INFO - Dados extraídos da linha 5: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 00:13:32,627 - INFO - Dados extraídos da linha 6: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 00:13:32,763 - INFO - Dados extraídos da linha 7: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 00:13:32,950 - INFO - Dados extraídos da linha 8: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 00:13:33,103 - INFO - Dados extraídos da linha 9: ['processo', 'pessoa_física/jurídica', 'empreendimento', 'modalidade', 'cpf/cnpj', 'atividade_principal', 'município_da_solicitação', 'ações', 'tipo_de_estudo']
+2025-05-07 00:13:33,104 - INFO - Total de 9 resultados extraídos da tabela
+2025-05-07 00:13:33,105 - INFO - Processando registro 1 de 9 na página 1
+2025-05-07 00:13:33,113 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:13:34,114 - INFO - Processando registro 2 de 9 na página 1
+2025-05-07 00:13:34,119 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:13:35,122 - INFO - Processando registro 3 de 9 na página 1
+2025-05-07 00:13:35,126 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:13:36,128 - INFO - Processando registro 4 de 9 na página 1
+2025-05-07 00:13:36,131 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:13:37,133 - INFO - Processando registro 5 de 9 na página 1
+2025-05-07 00:13:37,137 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:13:38,139 - INFO - Processando registro 6 de 9 na página 1
+2025-05-07 00:13:38,144 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:13:39,145 - INFO - Processando registro 7 de 9 na página 1
+2025-05-07 00:13:39,150 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:13:40,151 - INFO - Processando registro 8 de 9 na página 1
+2025-05-07 00:13:40,156 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:13:41,158 - INFO - Processando registro 9 de 9 na página 1
+2025-05-07 00:13:41,161 - INFO - Salvos 1 resultados incrementais em ecosistemas_resultados_incrementais.csv
+2025-05-07 00:13:42,179 - INFO - Não há próxima página disponível
+2025-05-07 00:13:42,179 - INFO - Chegou à última página. Finalizando coleta.
+2025-05-07 00:13:42,203 - INFO - Resultados salvos em CSV: licencas_ecosistemas_20250507_0013.csv
+2025-05-07 00:13:42,503 - INFO - Resultados salvos em Excel: licencas_ecosistemas_20250507_0013.xlsx
+2025-05-07 00:13:42,504 - INFO - === RESUMO DOS TIPOS DE ESTUDOS ENCONTRADOS ===
+2025-05-07 00:13:42,504 - INFO - - EIA/RIMA (inferido pela atividade): 9
+2025-05-07 00:13:42,505 - INFO - ============================================
+2025-05-07 00:13:44,749 - INFO - Driver fechado com sucesso
+2025-05-07 00:13:44,750 - INFO - Coleta concluída. Total de 9 registros coletados.
